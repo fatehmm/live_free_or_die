@@ -1,0 +1,14 @@
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/bin/Debug/netcoreapp3.1/Homework09JUNE
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/bin/Debug/netcoreapp3.1/Homework09JUNE.deps.json
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/bin/Debug/netcoreapp3.1/Homework09JUNE.runtimeconfig.json
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/bin/Debug/netcoreapp3.1/Homework09JUNE.runtimeconfig.dev.json
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/bin/Debug/netcoreapp3.1/Homework09JUNE.dll
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/bin/Debug/netcoreapp3.1/Homework09JUNE.pdb
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/obj/Debug/netcoreapp3.1/Homework09JUNE.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/obj/Debug/netcoreapp3.1/Homework09JUNE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/obj/Debug/netcoreapp3.1/Homework09JUNE.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/obj/Debug/netcoreapp3.1/Homework09JUNE.AssemblyInfo.cs
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/obj/Debug/netcoreapp3.1/Homework09JUNE.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/obj/Debug/netcoreapp3.1/Homework09JUNE.dll
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/obj/Debug/netcoreapp3.1/Homework09JUNE.pdb
+/Users/fatehmmmdli/Desktop/Polymorphism/Homework09JUNE/obj/Debug/netcoreapp3.1/Homework09JUNE.genruntimeconfig.cache
